@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love custom keyboards!
 
