@@ -33,7 +33,7 @@
 
 ---
 
-<details>
+<details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="sim1-dev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sim1-dev&show_icons=true&theme=radical" />
