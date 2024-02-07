@@ -1,11 +1,11 @@
 ## Simone Tenisci
 
-[![Website](https://img.shields.io/website?label=simonetenisci.it&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://simonetenisci.it)
+[![Website](https://img.shields.io/website?label=simonetenisci.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://simonetenisci.net)
 
 ## I'm a Web Developer
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love custom keyboards!
 
 <br />
