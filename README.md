@@ -2,11 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=simonetenisci.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://simonetenisci.net)
 
-## I'm a Web Developer
+## I'm a Full Stack Web Developer, mainly working on Angular and Laravel
 
-- 🌱 I’m currently learning everything
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love custom keyboards!
+⚡ I love custom keyboards!
+
 
 <br />
 
