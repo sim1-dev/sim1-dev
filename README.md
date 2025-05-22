@@ -1,6 +1,6 @@
 ## Simone Tenisci
 
-[![Website](https://img.shields.io/website?label=simonetenisci.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://simonetenisci.net)
+[![Website](https://img.shields.io/website?label=simonetenisci.it&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://simonetenisci.it)
 
 ## I'm a Full Stack Web Developer, mainly working on Angular and Laravel
 
